@@ -28,7 +28,7 @@ header::before {
     height: 100%;
     opacity: 0.5;
 
-    background-image: url('/images/header-bg.avif') ;
+    background-image: url('header-bg.avif') ;
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
